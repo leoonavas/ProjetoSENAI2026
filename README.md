@@ -1,0 +1,2 @@
+# 🌐  -  Cyber Taxas
+O projeto foi desenvolvido com o intuito de ajudar pessoas a investirem seu dinheiro de forma consciente, seja na compra de produtos, onde nosso sistema auxilia em qual plataforma comprar o produto, optando por confiança e valor mais acessível. Além disso, os monitoramentos da bolsa em tempo real, irão informar sobre o que vale apena ou não investir. Além disso, irá informar as inflações por país/produto, valorizações das diferentes moedas pelo mundo e informações breves sobre os melhores países da atualidade para se viver.
